@@ -3,4 +3,4 @@ A javascript library that enables you to insert HTML directly into your browser 
 
 ## Import
 
-`<script src="https://cdn.jsdelivr.net/gh/ColonelParrot/alert4html@main/src/script.js"></script>`
+`<script src="https://cdn.jsdelivr.net/gh/ColonelParrot/alert4html@main/src/script.min.js"></script>`

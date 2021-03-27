@@ -1,4 +1,4 @@
-# alert4html
+# alert4html.js
 A javascript library that enables you to insert HTML directly into your browser alerts, whilst also simulating Chrome alerts.
 
 ### Easy to use, customize and expand with

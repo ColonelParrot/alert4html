@@ -13,7 +13,7 @@ With alert4html:
 
 ## Import
 
-```
+```html
 <script src="https://cdn.jsdelivr.net/gh/ColonelParrot/alert4html@main/src/script.min.js"></script>
 ```
 
@@ -21,7 +21,7 @@ With alert4html:
 
 Create a simple alert with HTML support:
 
-```
+```javascript
 new HTMLAlert('Alert!','<h1>Header!</h1>')
 ```
 
@@ -29,7 +29,7 @@ new HTMLAlert('Alert!','<h1>Header!</h1>')
 
 Customize the number of buttons, and the type of each button:
 
-```
+```javascript
 buttons = {
   "button1": {
     type: "proceed",
@@ -47,7 +47,7 @@ new HTMLAlert('Wait!', '<i>Are you sure?</i>', buttons);
 
 Create a multiple choice alert (with a callback):
 
-```
+```javascript
 buttons = {
   "cheese": {
     type: "proceed",
